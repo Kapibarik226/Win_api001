@@ -1,0 +1,34 @@
+
+
+xMENU MENU
+
+{
+
+POPUP "&Options"
+{
+  MENUITEM "&UniMons",      101
+  MENUITEM "&AI_Colobok",   102
+  MENUITEM SEPARATOR
+  MENUITEM "&Eng / Rus ",   103
+  POPUP "&File..." 
+  {
+	 MENUITEM "&Open",      104		
+	 MENUITEM "&Save",      105
+  }
+  
+  MENUITEM "&-- 106 ",      106
+  
+  MENUITEM SEPARATOR
+  MENUITEM "&End",          108
+}
+MENUITEM "&About",          109 
+
+POPUP "&math"
+{
+
+   MENUITEM	"&Summ",        110
+   MENUITEM "&Res",         111
+}
+}
+
+MYICON ICON ico.ico
